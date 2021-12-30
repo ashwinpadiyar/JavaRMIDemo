@@ -29,7 +29,7 @@ As a self-learning project, this will allow me to understand the basics of Java 
     ```
 
 ##### Commands to use for executing the project:
-- Execute these commands from project workspace directory [<Home-Dir>\JavaRMI] :
+- Execute these commands from project workspace directory [Home-Dir\JavaRMIDemo] :
     ```
         > javac -d . src/my/java/example/rmi/BankImpl.java
     	> javac -d . src/my/java/example/rmi/Customer.java
